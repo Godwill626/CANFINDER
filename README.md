@@ -1,0 +1,1 @@
+**CamFinder** is a digital solution developed by **Azieh Godwill Teneng in 2024** to help people in Cameroon report, search for, and recover **lost or missing documents and personal items**. The platform is designed to connect people who have lost belongings with individuals or organizations that may have found them, making the recovery process faster, easier, and more organized.
